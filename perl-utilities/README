@@ -7,7 +7,3 @@ REQUIRES: Text::CSV
 
 example: $ perl converter.pl input.csv output.tsv
 
-----------------------------------------------------------------------------------------------------------------
-
-use pdf_extractor.pl to split multipage PDF files 
-add input only file name to cli arguments
