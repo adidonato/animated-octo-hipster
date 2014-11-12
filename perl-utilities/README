@@ -1,0 +1,13 @@
+at times you may need to convert CSV files into TAB delimited files
+use converter.pl to convert CSV files into TSV -> add input file name and output file name (optional) to the cli arguments
+change input file to desired CSV.
+will output locally to TSV.
+
+REQUIRES: Text::CSV
+
+example: $ perl converter.pl input.csv output.tsv
+
+----------------------------------------------------------------------------------------------------------------
+
+use pdf_extractor.pl to split multipage PDF files 
+add input only file name to cli arguments
