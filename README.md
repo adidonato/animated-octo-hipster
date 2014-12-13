@@ -1,5 +1,10 @@
-Angelo's Repo
+## Angelo's Repo
 
-Mostly bullshit and some utilities.
+Some Perl and Python scripts.
 
-Enjoy
+New: Facebook friendship graph generator using d3.js
+
+
+## LICENSE
+
+Code in this repo dedicated to the public domain. Use it as you please with no restrictions whatsoever.
