@@ -2,23 +2,19 @@
 
 ## Usage
 
-Get your FB Access Token here: https://www.facebook.com/dialog/oauth?client_id=464891386855067&redirect_uri=https://www.facebook.com/connect/login_success.html&scope=basic_info,email,public_profile,user_about_me,user_activities,user_birthday,user_education_history,user_friends,user_interests,user_likes,user_location,user_photos,user_relationship_details&response_type=token
+* Get your FB Access Token here: http://goo.gl/lLgvFs
 
 * pull your FB friends data and create cliques in your network: ~$ python fb-graph-generator.py
 
-*fire up the webserver: ~$ python webserver.py
-
-*go to: localhost:8000/fb-redirected.html
-
-
+* fire up the webserver with this command: ~$ python -m SimpleHTTPServer [portnumber]
 
 ## Contents
-graph generator .py script
-html visualization files
-.py simple webserver
+
+* graph generator .py script
+* html visualization files
 
 ## Requirements
-FB API Access Token
+* FB API Access Token
 
 * Python modules
 
