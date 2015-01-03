@@ -2,7 +2,7 @@
 
 ## Usage
 
-* Get your FB Access Token here: http://goo.gl/lLgvFs
+* Get your FB Access Token here: https://developers.facebook.com/tools/access_token/
 
 * pull your FB friends data and create cliques in your network: ~$ python fb-graph-generator.py
 
