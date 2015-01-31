@@ -2,8 +2,6 @@
 
 Some Perl and Python scripts.
 
-New: Facebook friendship graph generator using d3.js
-
 
 ## LICENSE
 
